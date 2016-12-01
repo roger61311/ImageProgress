@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
+        //2016/12/1 roger test github VCS
         tv_rgb = (TextView) findViewById(R.id.textview);
         btnColor = (Button) findViewById(R.id.btnColor);
         iv_image = (ImageView) findViewById(R.id.iv_image);
